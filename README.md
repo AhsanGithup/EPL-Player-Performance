@@ -36,3 +36,6 @@ Project Documentation: EPL Data Analysis
 Conclusion
 
 The EPL dataset analysis provided a deeper understanding of key players' performance metrics, allowing data-driven insights into player selection and team strategies. The project demonstrates strong skills in data cleaning, analysis, and visualization using Python libraries.
+
+![soccer-table-with-background-of-sport-stadium-vector](https://github.com/user-attachments/assets/8f6d10d9-897d-40e0-96ad-7631ebf495d9)
+
